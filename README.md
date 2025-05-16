@@ -1,16 +1,36 @@
-# myapp
+# 📱 Flutter Calendar Pro
 
-A new Flutter project.
+A powerful calendar and event planner app built using Flutter.  
+Includes support for custom themes, scheduled notifications, and Google Calendar integration (optional).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📅 Beautiful calendar UI using `table_calendar`
+- 🔔 Scheduled notifications using `flutter_local_notifications`
+- 🗓️ Event management with reminders
+- 🎨 Cool, professional theme with dark/light mode
+- 🧭 Seamless navigation
+- 🌐 (Optional) Google Calendar integration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Dependencies
+
+| Package                     | Description                     |
+|----------------------------|---------------------------------|
+| `table_calendar`           | Calendar widget                 |
+| `flutter_local_notifications` | Local notifications              |
+| `provider`                 | State management                |
+| `shared_preferences`       | Local storage                   |
+
+---
+
+## 🛠️ Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/flutter-calendar-pro.git
+cd flutter-calendar-pro
