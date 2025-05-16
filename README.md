@@ -1,4 +1,4 @@
-📱 Flutter Calendar Pro
+📱 Flutter Calendar Pro ||By Dipanjan Dhar
 
 A powerful calendar and event planner app built using Flutter.
 
