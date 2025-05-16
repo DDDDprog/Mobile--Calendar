@@ -34,3 +34,6 @@ Includes support for custom themes, scheduled notifications, and Google Calendar
 ```bash
 git clone https://github.com/your-username/flutter-calendar-pro.git
 cd flutter-calendar-pro
+
+Install Dependencies
+flutter pub get
